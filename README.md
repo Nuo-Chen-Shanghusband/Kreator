@@ -1,3 +1,16 @@
+Kreator
+===
+
+Kreator is Creator, but the spelling is changed, the pronunciation is not changed.
+
+As the name implies, Kreator is a platform where you can publish articles of any literary genre, including but not limited to fiction, poetry, prose, etc...
+
+We are willing to provide you with a better creative environment.
+
+[TOC]
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
